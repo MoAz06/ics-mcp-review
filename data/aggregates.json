@@ -33,8 +33,8 @@
  "claims_not_kept_at_all": 5,
  "traced_only_in_part": 112,
  "disclosure_candidates": {
-  "high": 14,
-  "medium": 19,
+  "high": 12,
+  "medium": 21,
   "low": 4
  },
  "blind_reread_sample": {

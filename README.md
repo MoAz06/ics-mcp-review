@@ -71,7 +71,7 @@ out not to be MCP servers that reach a live system, which leaves 218 (132 runtim
 | ...on all interfaces with no authentication by default | 24 |
 | Engineering servers that can reach a real controller (some only after an opt-in) | 51 of 86 |
 | A safety or read-only claim in the README that the code does not fully keep | 49 of 158 checked claims (5 not at all) |
-| Candidates for private disclosure | 37: 14 high, 19 medium, 4 low (after hand checks) |
+| Candidates for private disclosure | 37: 12 high, 21 medium, 4 low (after hand checks) |
 
 These are agent readings of code, not tests, and 112 of the 218 were traced only
 partly. Every disclosure candidate was read a second time, independently, by a
