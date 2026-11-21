@@ -1,0 +1,8 @@
+# Per-server data stays private until every maintainer with a finding has been
+# contacted and has had time to respond. Only scripts, method docs and
+# aggregate numbers are published.
+private/
+data/*
+!data/aggregates.json
+article/
+__pycache__/

@@ -1,0 +1,48 @@
+{
+ "snapshot": "default branch of each repository on 2026-11-21",
+ "checked_servers": 218,
+ "runtime": 132,
+ "engineering": 86,
+ "write_capable": 186,
+ "writes_on_by_default": 136,
+ "with_a_gate_the_agent_cannot_pass": 110,
+ "writes_on_by_default_with_no_such_gate": 76,
+ "gate_kinds_among_write_capable": {
+  "operator flag": 81,
+  "allowlist": 57,
+  "value bounds": 49,
+  "confirm_arg": 39,
+  "dry_run": 32,
+  "audit_log": 67
+ },
+ "confirm_argument_is_the_only_gate": 18,
+ "human_approval_hand_check": {
+  "waits_for_a_person_by_default": 7,
+  "optional_partial_or_in_host_app": 8,
+  "not_human_approval": 8,
+  "not_verifiable": 2
+ },
+ "agent_chooses_device": 76,
+ "http_capable": 82,
+ "http_all_interfaces_by_default": 28,
+ "http_all_interfaces_no_auth_by_default": 24,
+ "http_bind_not_determined": 12,
+ "engineering_reaching_a_controller": 51,
+ "readme_safety_claims_checked": 158,
+ "claims_not_fully_kept": 49,
+ "claims_not_kept_at_all": 5,
+ "traced_only_in_part": 112,
+ "disclosure_candidates": {
+  "high": 15,
+  "medium": 18,
+  "low": 4
+ },
+ "blind_reread_sample": {
+  "servers": 20,
+  "seed": 20261121,
+  "answers": 104,
+  "held_up": 97,
+  "wrong": 5,
+  "skipped": 2
+ }
+}
